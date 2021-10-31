@@ -3,7 +3,7 @@
     "path": "~/Raul/GitHub/Inf1052021S/titanic.R",
     "project_path": "titanic.R",
     "type": "r_source",
-    "hash": "686056618",
+    "hash": "1675931317",
     "contents": "",
     "dirty": false,
     "created": 1634771824436.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "11,0",
-        "scrollLine": "0"
+        "cursorPosition": "18,1",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634772295,
+    "lastKnownWriteTime": 1634835128,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634772296008,
+    "last_content_update": 1634835129760,
     "read_only": false,
     "read_only_alternatives": []
 }
